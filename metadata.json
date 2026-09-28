@@ -1,0 +1,6 @@
+{
+  "name": "WeCare Hospitals",
+  "description": "Modern healthcare portal for WeCare Hospitals with comprehensive department directories, specialist doctor profiles, and real-time appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
