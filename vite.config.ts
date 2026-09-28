@@ -11,7 +11,7 @@ export default defineConfig(({ command }) => {
       const repoName = process.env.GITHUB_REPOSITORY.split('/')[1];
       return `/${repoName}/`;
     }
-    return '/wecare-hospitals-1/';
+    return './';
   };
 
   return {
